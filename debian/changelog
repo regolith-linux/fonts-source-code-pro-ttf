@@ -1,3 +1,14 @@
+fonts-source-code-pro-ttf (1.011-0ubuntu1~ppa2) disco; urgency=medium
+
+  [ Khosrow Moossavi ]
+  * feat: enable github action to test pull requests
+  * feat: enable github action to publish to unstable
+  * feat: enable github action to publish to testing
+  * feat: enable github action to prepare release
+  * fix: create release tag from correct git sha
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Mon, 03 Feb 2025 20:57:01 +0000
+
 fonts-source-code-pro-ttf (1.010-0ubuntu1~ppa2) disco; urgency=medium
 
   * Update to disco. 
